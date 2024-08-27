@@ -40,6 +40,15 @@ If you want to add a new app or feature, you can follow the [Contribution guide]
 
 We are looking for contributions of all kinds. If you know design, development, or have ideas for new features, please get in touch.
 
+## Sponsors
+
+Thanks to our generous sponsors for supporting the development of Runtipi:
+
+| CodeRabbit       |
+|------------------|
+| <img src="https://raw.githubusercontent.com/runtipi/runtipi/develop/screenshots/sponsors/coderabbit.png" alt="CodeRabbit logo" width="200"/> |
+| [coderabbit.ai](https://coderabbit.ai) |
+
 ## 📜 License
 
 [![License](https://img.shields.io/github/license/runtipi/runtipi)](https://github.com/runtipi/runtipi/blob/master/LICENSE)
