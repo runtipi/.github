@@ -22,6 +22,9 @@
       "description": "The Runtipi app store has a wide range of selfhosted apps you can install on your server. You can find them all in your Runtipi dashboard, [our website](https://runtipi.io/docs/apps-available) or [app store repository](https://github.com/runtipi/runtipi-appstore)\n\nHow can I request an app?\n- Feel free to request an app in the [app store repository](https://github.com/runtipi/runtipi-appstore) or in #⁠💻・suggestions\n\nHow can I submit a new app to Runtipi?\n- Follow this guide on the [documentation site here](https://runtipi.io/docs/contributing/adding-a-new-app)",
       "url": "https://github.com/runtipi/runtipi-appstore",
       "color": 16716346,
+      "author": {
+        "name": "Runtipi"
+      },
       "footer": {
         "text": "Updated at"
       },
@@ -35,7 +38,7 @@
       "description": "Check out some of our other stuff!\n\n- Twitter: <https://twitter.com/runtipi>\n- Discord: <https://discord.gg/Bu9qEPnHsc>\n- Reddit: <https://reddit.com/r/runtipi>",
       "color": 16716346,
       "author": {
-        "name": "runtipi"
+        "name": "Runtipi"
       },
       "footer": {
         "text": "Updated at"
