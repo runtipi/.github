@@ -3,7 +3,7 @@
   "embeds": [
     {
       "title": "Welcome to the Runtipi Official Discord",
-      "description": "Runtipi is a personal home server orchestrator.\nIt is running docker containers under the hood and provides a simple web interface to manage them. Every service comes with an opinionated configuration in order to remove the need for manual configuration and network setup.\n\n**Information**\n\n- Our Website [https://www.runtipi.io](https://www.runtipi.io)\n- Our Github: [https://github.com/runtipi](https://github.com/runtipi)\n- Our Appstore Github: [https://github.com/runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore)",
+      "description": "Runtipi is a personal home server orchestrator.\nIt is running docker containers under the hood and provides a simple web interface to manage them. Every service comes with an opinionated configuration in order to remove the need for manual configuration and network setup.\n\n**Information**\n\n- Our Website: <https://runtipi.io>\n- Our Github: <https://github.com/runtipi/runtipi>\n- Our Appstore Github: <https://github.com/runtipi/runtipi-appstore>",
       "url": "https://runtipi.io",
       "color": 16716346,
       "author": {
@@ -32,7 +32,7 @@
     },
     {
       "title": "Other Information",
-      "description": "Check out some of our other stuff!\n\n- Twitter: [https://twitter.com/runtipi](https://twitter.com/runtipi)\n- Discord: [https://discord.gg/Bu9qEPnHsc](https://discord.gg/Bu9qEPnHsc\n)\n- Reddit: [https://reddit.com/r/runtipi](https://reddit.com/r/runtipi)",
+      "description": "Check out some of our other stuff!\n\n- Twitter: <https://twitter.com/runtipi>\n- Discord: <https://discord.gg/Bu9qEPnHsc>\n- Reddit: <https://reddit.com/r/runtipi>",
       "color": 16716346,
       "author": {
         "name": "runtipi"
